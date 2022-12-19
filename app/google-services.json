@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63418794607",
+    "firebase_url": "https://fifakub-9e281-default-rtdb.firebaseio.com",
+    "project_id": "fifakub-9e281",
+    "storage_bucket": "fifakub-9e281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63418794607:android:d2be5d0afbe1448098039a",
+        "android_client_info": {
+          "package_name": "com.example.fifakub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63418794607-748ms5nvu176mp422rcp0sbuvpqhjj1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlZif2uiBzfIO-pGnFIENBrKV1SUY2MHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63418794607-748ms5nvu176mp422rcp0sbuvpqhjj1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

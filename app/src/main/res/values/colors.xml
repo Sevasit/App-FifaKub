@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#a61b38</color>
+    <color name="purple_700">#6A0016</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorD">#0078AA</color>
+
+    <color name="mainred">#a61b38</color>
+    <color name="maingray">#F3F3F3</color>
+    <color name="mainwhite">#fefaf7</color>
+    <color name="mainred2">#c77282</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="glide_slider_indicator_color">#709970</color>
+</resources>

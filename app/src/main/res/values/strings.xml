@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Fifakub</string>
+
+    <string-array name="fifa_word">
+        <item>Qatar</item>
+        <item>Team</item>
+        <item>AL RIHLA</item>
+        <item>DARK SCARLET</item>
+        <item>Football Field</item>
+        <item>Music</item>
+        <item>Schedule</item>
+        <item>Yellow</item>
+        <item>Red</item>
+        <item>Cards</item>
+        <item>International</item>
+        <item>Shoot-out</item>
+        <item>Goalposts</item>
+        <item>Shoot</item>
+        <item>cup</item>
+        <item>Goalkeeper</item>
+        <item>Handball</item>
+        <item>Possession</item>
+        <item>Foul</item>
+        <item>Supporters</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>การแข่งขันฟุตบอลโลก 2022 \nจะจัดขึ้นที่ประเทศ “Qatar (กาตาร์)”</item>
+        <item>การแข่งขันฟุตบอลโลกทุกครั้งจะมีทีม\nเข้าร่วมทั้งหมด 32 ทีม</item>
+        <item>ในการแข่งขันฟุตบอลโลกแต่ละครั้ง\nลูกฟุตบอลจะถูกตั้งชื่อ โดยครั้งนี้ก็เช่นกัน \nในการแข่งขันในครั้งนี้มีชื่อว่า“AL RIHLA”</item>
+        <item>สีหลักในการแข่งขันฟุตบอลโลกในปี 2022 นี้\nจะมีสี DARK SCARLET เป็นสีหลัก</item>
+        <item>ในการแข่งขันฟุตบอลโลกปี 2022 นี้จะมีสนาม\nที่เอาไว้ใช้ทำการแข่งขันทั้งหมด 8 สนาม</item>
+        <item>ในการแข่งขันฟุตบอลโลกในทุกๆปีจะมีเพลง\nประจำของการแข่งขันปีนั้น \nปีนี้ก็มีเช่นเดียวกันกับปีอื่นๆ โดยปีนี้มีชื่อว่า \nเพลง“HAYYA HAYYA”</item>
+        <item>การแข่งขันฟุตบอลโลกปี 2022 จะจัดขึ้น\nระหว่างวันที่ 21 พฤศจิกายน – 18 ธันวาคม</item>
+        <item>ใบเหลืองเป็นการเตือนครั้งแรก</item>
+        <item>ใบแดงเป็นการเตือนครั้งที่สองที่ผิดกติกา</item>
+        <item>ประเภทของการทำโทษ มีใบเหลืองและใบแดง</item>
+        <item>ระดับนานาชาติ</item>
+        <item>ยิงลูกโทษ</item>
+        <item>เสาประตู</item>
+        <item>ยิงประตู</item>
+        <item>ถ้วยรางวัล/การแข่งขัน</item>
+        <item>ผู้รักษาประตู</item>
+        <item>มือสัมผัสลูกบอล</item>
+        <item>การครองบอลในสนาม</item>
+        <item>การโกงระหว่างการเเข่งขัน</item>
+        <item>ผู้สนับสนุน</item>
+    </string-array>
+
+
+</resources>
